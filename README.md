@@ -25,6 +25,8 @@ State Management: Provider
 
 📊 Architecture
 
+📌 Due to insufficient time duration I have used figma UI design for a reference purpose
+
 📂 APK & Demo
 📦 Download APK
 🎥 Watch Demo
